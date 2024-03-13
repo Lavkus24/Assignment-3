@@ -1,4 +1,4 @@
-I** have implemented a series of RESTful APIs to fulfill the requirements of the assignment. Here's a detailed overview of the functionalities:**
+**I have implemented a series of RESTful APIs to fulfill the requirements of the assignment. Here's a detailed overview of the functionalities:**
 - **Book Session:**
   - Clients can book sessions with consultants based on date and time.
   - Randomly generated Consultant ID and Client ID are used for each session.
